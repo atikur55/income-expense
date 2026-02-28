@@ -1,0 +1,12 @@
+{
+  "salary": 70000,
+  "expenses": [
+    {
+      "id": "0ae96bca-3a70-4c01-977e-a0be86a97ea0",
+      "title": "One Bank - Current Bill",
+      "amount": 1225,
+      "date": "2026-02-26"
+    }
+  ],
+  "updatedAt": "2026-02-28T04:37:55.456Z"
+}
